@@ -1,6 +1,7 @@
 # rust maze
 generate maze CLI  
 
+`
 ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ  
 ZZ  ZZ              ZZ                          ZZ  
 ZZ  ZZ  ZZ  ZZ  ZZ  ZZ  ZZ  ZZZZZZ  ZZZZZZZZZZ  ZZ  
@@ -26,3 +27,4 @@ ZZ      ZZ  ZZ  ZZ  ZZ  ZZ              ZZ      ZZ
 ZZZZZZ  ZZZZZZZZZZ  ZZ  ZZZZZZ  ZZ  ZZ  ZZ  ZZ  ZZ  
 ZZ                  ZZ          ZZ  ZZ      ZZ  ZZ  
 ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ  
+`
